@@ -77,6 +77,7 @@
 #include "utility/socket.h"
 
 // These are the interrupt and control pins
+// Values fixed for TinyDuino WiFi shield
 #define ADAFRUIT_CC3000_IRQ   2  // MUST be an interrupt pin!
 // These can be any two pins
 #define ADAFRUIT_CC3000_VBAT  A3
